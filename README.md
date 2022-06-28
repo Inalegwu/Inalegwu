@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Inalegwu
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on React Based or MERN Stack Based Projects
+- 👀 FullStack Developer
+- 👀 Currently Doing a lot of Frontend
+- 🌱 React JS Developer
+- 🌱 React Native Developer
+- 💞️ I’m looking to collaborate on React or React Native Based Projects
 - 📫 How to reach me email :ikwueinalegwu@gmail.com
 
 <!---

@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @Inalegwu
-- 👀 FullStack Developer
-- 👀 Currently Doing a lot of Frontend
-- 🌱 React JS Developer
+- 👀 Mobile Developer
 - 🌱 React Native Developer
-- 🌱 Using Express.JS and PHP for Backend
-- 🌱 Currently Trying to Learn Rust
-- 💞️ I’m looking to collaborate on React or React Native Based Projects
+- 🌱 Using ExpressJS and occasionally PHP for Backend
+- 💞️ I’m looking to collaborate on React Native Based Projects
 - 📫 How to reach me email :ikwueinalegwu@gmail.com
 
 <!---

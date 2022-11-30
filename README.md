@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Inalegwu
 - 👀 Mobile Developer
-- 🌱 React Native Developer
-- 🌱 Using Nest JS for Backend (" 'cause why not ")
+- 🌱 Using Nest JS for Backend
 - 💞️ I’m looking to collaborate on React Native Based Projects
 - 📫 How to reach me email :ikwueinalegwu@gmail.com
 

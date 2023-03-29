@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Inalegwu
 - 👀 Mobile Developer
 - 🌱 Using Nest JS for Backend (and the occasional golang)
+- 😎 Blitzing the Web
 - 🖤 Learning Rust btw
-- 💞️ I’m looking to collaborate on React Native Based Projects
+- 💞️ I’m looking to collaborate on React/React Native Based Projects
 - 📫 How to reach me email :ikwueinalegwu@gmail.com
 
 <!---

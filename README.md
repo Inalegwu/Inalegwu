@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Inalegwu
 - 👀 Mobile Developer
-- 💞️ I’m looking to collaborate on React/React Native Based Projects
+- Currently Learning Golang and loving it
+- 💞️ I’m looking to collaborate on React Native Based Projects
 - 📫 How to reach me email :ikwueinalegwu@gmail.com
 
 <!---

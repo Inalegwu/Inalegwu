@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Inalegwu
-- 💡 Mobile Developer
-- 👀 Trying to work with Rust in Electron and React Native
+- 💡 Mobile Developer Working with React Native, Swift and Kotlin
 - 💞️ I’m looking to collaborate on React Native Based Projects
 - 📫 How to reach me email :ikwueinalegwu@gmail.com
 

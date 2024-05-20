@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Inalegwu
-- 💡 Mobile Developer Working with React Native, Swift and Kotlin
+- 💡 Mobile Developer Working with React Native
 - 💞️ I’m looking to collaborate on React Native Based Projects
 - 📫 How to reach me email :ikwueinalegwu@gmail.com
